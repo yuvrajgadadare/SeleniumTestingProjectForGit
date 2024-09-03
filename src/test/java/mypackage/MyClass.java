@@ -6,7 +6,7 @@ public class MyClass {
 		System.out.println("Welcome");
 	}
 	public void SecondTest() {
-		System.out.println("This is Second Test");
+		System.out.println("This is Second Test")
 	}
 	public static void main(String[] args) {
  
