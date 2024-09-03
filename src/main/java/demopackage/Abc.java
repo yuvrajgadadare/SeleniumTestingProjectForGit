@@ -3,7 +3,7 @@ package demopackage;
 public class Abc {
 
 	void Add() {
-		int a,b,c
+		int a,b,c;
 		c=a+b;
 		
 	}
